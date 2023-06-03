@@ -1,3 +1,5 @@
 # starknet
- ·mpn install starknet
- ·node .\call\stark.mjs
+`mpn install starknet`
+ 
+
+`node .\call\stark.mjs`
